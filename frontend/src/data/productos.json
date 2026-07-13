@@ -4,55 +4,55 @@
         "nombre": "Notebook Gamer ASUS ROG Strix G16",
         "precio": 1299990,
         "valoracion": "★★★★★",
-        "imagen": "https://via.placeholder.com/200x150?text=Notebook+ASUS"
+        "imagen": "https://images.unsplash.com/photo-1603302576837-37561b2e2302?w=500&auto=format&fit=crop&q=80"
     },
     {
         "id": 2,
         "nombre": "iPhone 15 Pro Max 256GB",
         "precio": 1219990,
         "valoracion": "★★★★★",
-        "imagen": "https://via.placeholder.com/200x150?text=iPhone+15"
+        "imagen": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=500&auto=format&fit=crop&q=80"
     },
     {
         "id": 3,
         "nombre": "Monitor LG UltraGear 27\" 165Hz QHD",
         "precio": 349990,
         "valoracion": "★★★★☆",
-        "imagen": "https://via.placeholder.com/200x150?text=Monitor+LG"
+        "imagen": "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?w=500&auto=format&fit=crop&q=80"
     },
     {
         "id": 4,
         "nombre": "Mouse Gamer Logitech G502 HERO",
         "precio": 49990,
         "valoracion": "★★★★★",
-        "imagen": "https://via.placeholder.com/200x150?text=Mouse+Logitech"
+        "imagen": "https://images.unsplash.com/photo-1615663245857-ac93bb7c39e7?w=500&auto=format&fit=crop&q=80"
     },
     {
         "id": 5,
         "nombre": "Teclado Mecánico Redragon Kumara K552",
         "precio": 39990,
         "valoracion": "★★★★☆",
-        "imagen": "https://via.placeholder.com/200x150?text=Teclado+Redragon"
+        "imagen": "https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=500&auto=format&fit=crop&q=80"
     },
     {
         "id": 6,
         "nombre": "Audífonos HyperX Cloud II",
         "precio": 79990,
         "valoracion": "★★★★★",
-        "imagen": "https://via.placeholder.com/200x150?text=Audifonos+HyperX"
+        "imagen": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500&auto=format&fit=crop&q=80"
     },
     {
         "id": 7,
         "nombre": "SSD Kingston NV2 1TB PCIe 4.0",
         "precio": 64990,
         "valoracion": "★★★★☆",
-        "imagen": "https://via.placeholder.com/200x150?text=SSD+Kingston"
+        "imagen": "https://images.unsplash.com/photo-1591799264318-7e6ef8ddb7ea?w=500&auto=format&fit=crop&q=80"
     },
     {
         "id": 8,
         "nombre": "Tablet Samsung Galaxy Tab S9 FE",
         "precio": 429990,
         "valoracion": "★★★★★",
-        "imagen": "https://via.placeholder.com/200x150?text=Tablet+Samsung"
+        "imagen": "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?w=500&auto=format&fit=crop&q=80"
     }
 ]

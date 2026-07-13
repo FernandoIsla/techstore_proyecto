@@ -1,8 +1,8 @@
 import React from 'react';
 
-const Cart = ({ cartCount }) => {
+const Cart = ({ cartCount, onOpenCart }) => {
     return (
-        <div className="cart-container">
+        <div className="cart-container" onClick={onOpenCart} style={{ cursor: 'pointer' }}>
             🛒 Carrito ({cartCount})
         </div>
     );
