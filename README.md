@@ -7,7 +7,7 @@ El diseño sigue una estética de modo oscuro premium basada en negro profundo, 
 ---
 
 ## Integrantes
-* **Estudiante:** Fernando Isla
+* **Estudiante:** Fernando Isl
 * **Carrera:** Ingeniería en Informática
 * **Asignatura:** Programación Front-End (INACAP)
 
