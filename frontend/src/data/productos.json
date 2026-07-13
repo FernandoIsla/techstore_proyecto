@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "nombre": "Notebook Gamer ASUS ROG Strix G16",
+        "precio": 1299990,
+        "valoracion": "★★★★★",
+        "imagen": "https://via.placeholder.com/200x150?text=Notebook+ASUS"
+    },
+    {
+        "id": 2,
+        "nombre": "iPhone 15 Pro Max 256GB",
+        "precio": 1219990,
+        "valoracion": "★★★★★",
+        "imagen": "https://via.placeholder.com/200x150?text=iPhone+15"
+    },
+    {
+        "id": 3,
+        "nombre": "Monitor LG UltraGear 27\" 165Hz QHD",
+        "precio": 349990,
+        "valoracion": "★★★★☆",
+        "imagen": "https://via.placeholder.com/200x150?text=Monitor+LG"
+    },
+    {
+        "id": 4,
+        "nombre": "Mouse Gamer Logitech G502 HERO",
+        "precio": 49990,
+        "valoracion": "★★★★★",
+        "imagen": "https://via.placeholder.com/200x150?text=Mouse+Logitech"
+    },
+    {
+        "id": 5,
+        "nombre": "Teclado Mecánico Redragon Kumara K552",
+        "precio": 39990,
+        "valoracion": "★★★★☆",
+        "imagen": "https://via.placeholder.com/200x150?text=Teclado+Redragon"
+    },
+    {
+        "id": 6,
+        "nombre": "Audífonos HyperX Cloud II",
+        "precio": 79990,
+        "valoracion": "★★★★★",
+        "imagen": "https://via.placeholder.com/200x150?text=Audifonos+HyperX"
+    },
+    {
+        "id": 7,
+        "nombre": "SSD Kingston NV2 1TB PCIe 4.0",
+        "precio": 64990,
+        "valoracion": "★★★★☆",
+        "imagen": "https://via.placeholder.com/200x150?text=SSD+Kingston"
+    },
+    {
+        "id": 8,
+        "nombre": "Tablet Samsung Galaxy Tab S9 FE",
+        "precio": 429990,
+        "valoracion": "★★★★★",
+        "imagen": "https://via.placeholder.com/200x150?text=Tablet+Samsung"
+    }
+]
